@@ -5,7 +5,7 @@
 -->
 
 - 😄 Pronouns: He/His
-- 🌱 I’m currently learning **Gatsby**
+- 🌱 I’m currently learning **React**
 - 💻 Connect with me on **[LinkedIn]**
 
 
