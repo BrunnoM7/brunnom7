@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Javascript** and **C#**
 - 💻 Connect with me on **[LinkedIn]**
 - 🇺🇸 Read some of my ideas in English on **[dev.to]**
-- 🇧🇷 Read some of my ideas in English on **[medium]**
+- 🇧🇷 Read some of my ideas in Portuguese on **[medium]**
 - 🍺 And if you are feeling exceptionally majestic today, consider buying me a coffee or something nice on **[ko-fi]**
 
 <p align="left">
