@@ -5,7 +5,7 @@
 -->
 
 - 😄 Pronouns: He/His
-- 🌱 I’m currently studying **TailwindCSS**
+- 🌱 I’m currently studying **Javascript**
 - 💻 Connect with me on **[LinkedIn]**
 - 🇺🇸 Read some of my ideas in English on **[dev.to]**
 - 🇧🇷 Read some of my ideas in Portuguese on **[medium]**
